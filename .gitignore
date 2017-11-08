@@ -82,6 +82,10 @@ Library/
 eclipse-workspace/
 eclipse/
 
+.m2/
+.mysql_history
+UPDATE
+
 
 fastlane/report.xml
 fastlane/Preview.html

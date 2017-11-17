@@ -85,6 +85,15 @@ eclipse/
 .m2/
 .mysql_history
 UPDATE
+.viminfo
+
+.bash_profile
+.jenkins/
+bin/
+show
+.viminfo
+
+	
 
 
 fastlane/report.xml

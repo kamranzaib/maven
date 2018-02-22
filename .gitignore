@@ -106,3 +106,64 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
+
+	.android/
+	.bash_profile.save
+	.bash_profile.save.1
+	.bashrc
+	.dbshell
+	.emulator_console_auth_token
+	.gem/
+	.gradle/
+	.metadata/
+	.mkshrc
+	.mongorc.js
+	.profile
+	.recommenders/
+	.rvm/
+	.subversion/
+	.v8flags.6.2.414.44-node.11.9ccba16d1478d0379bc468b999bebf93.json
+	.zlogin
+	.zshrc
+	ApkProjects/
+	FLUSH
+	IdeaProjects/
+	Movies/
+	Pictures/
+	RemoteSystemsTempFiles/
+	Servers/
+	appium.txt.save
+	appium/
+	messeges/
+	package-lock.json
+	package.json.gitignore
+.android/
+.bash_profile.save
+.bash_profile.save.1
+.bashrc
+.dbshell
+.emulator_console_auth_token
+.gem/
+.gradle/
+.metadata/
+.mkshrc
+.mongorc.js
+.profile
+.recommenders/
+.rvm/
+.subversion/
+.v8flags.6.2.414.44-node.11.9ccba16d1478d0379bc468b999bebf93.json
+.zlogin
+.zshrc
+ApkProjects/
+FLUSH
+IdeaProjects/
+Movies/
+Pictures/
+RemoteSystemsTempFiles/
+Servers/
+appium.txt.save
+appium/
+messeges/
+package-lock.json
+package.json
